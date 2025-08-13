@@ -1,5 +1,5 @@
 # 분석이 포트폴리오 될 때
-* ICT컴플랙스라는 업체에서 데이터분석가 포트폴리오 제작법에 대한 강의를 진행했습니다. [강의자료]([https://present.do/documents/637a2bd83e3ad95cc8311413](https://drive.google.com/file/d/1K145oi_m78HRAV0V5EQL-LrWJP6a7WOD/view?usp=sharing))
+* ICT컴플랙스라는 업체에서 데이터분석가 포트폴리오 제작법에 대한 강의를 진행했습니다. [강의자료](https://drive.google.com/file/d/1K145oi_m78HRAV0V5EQL-LrWJP6a7WOD/view?usp=sharing)
 * 입사전 피파온라인4 API를 활용한 분석을 통해 유명 게임 사이트에서 최다 추천수를 받은 적이 있습니다.
 * 해당 경험을 활용해, 본인이 지금까지 오랜 시간 투자했던 대상에서 "관심 주제와 해결해야할 문제"를 찾고 데이터 분석을 통해 문제를 해결하는 방법에 대해서 전달합니다.
 
